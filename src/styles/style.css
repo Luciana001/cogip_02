@@ -1,0 +1,38 @@
+body {
+  background-image: url(img/COGIP-bg.jpg);
+  background-size: cover;
+  background-repeat: repeat-y;
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #036353;
+}
+
+h5 {
+  padding-top: 46px;
+  padding-bottom: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+table {
+  text-align: center;
+  width: 75%;
+  table-layout: auto;
+}
+
+th {
+  background-color: #036353;
+  color: #0ddfaa;
+}
+
+footer {
+  padding-top: 60px;
+  background-color: #036353;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
